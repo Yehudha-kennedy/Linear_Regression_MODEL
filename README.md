@@ -2,8 +2,7 @@
 
 # Description:
 A simple linear regression model trained using PyTorch's Adam optimizer.
-The model is trained on normalized data (Z-score normalization) to ensure 
-stable convergence. Key features include gradient clipping and a conservative 
+Key features include gradient clipping and a conservative 
 learning rate to prevent gradient explosion.
 
 # Technical Details:
